@@ -1,0 +1,58 @@
+body{
+	background-color: #62211f;
+}
+
+#header{
+	border-radius:0;
+	background-color: rgb(240, 229, 71);
+	height:100px;
+	margin-bottom: 0px;
+}
+#title>h1{
+	font-family: "times new roman";
+	font-size:1.2em;
+	text-transform: uppercase;
+}
+#menu{
+	text-transform: capitalize;
+	color:white;
+	margin-bottom: 20px;
+	font-family: Star Wars;
+}
+#content>div{
+    padding: 20px;
+    color:#61122f;
+    border-right:8px solid #61122f;
+    box-shadow: 2px 2px 2px #222;
+    margin-bottom: 20px;
+    background-color: rgb(240, 229, 71);
+    font-size: 1.2em;
+    font-family: times  new roman,sans serif;
+ }
+.icon-bar{
+	border:1px solid #61122f;
+}
+#header button.navbar-toggle{
+	border:1px solid #61122f;
+}
+#nav-list>li>a{
+	color:#61122f;
+	font-weight: bold;
+	text-align: center;
+}
+#nav-list>li>a:hover{
+	font-weight: bolder;
+	color: white;
+	background-color: #61122f;
+}
+#nav-list>li{
+	border:2px solid white;
+	background-color:rgb(240, 229, 71);
+}
+#navigation{
+	padding: 0px;
+}
+#content h3{
+	font-family: Star Wars;
+	font-weight: bold;
+}
